@@ -1,0 +1,2 @@
+# xorig.in
+CORS proxy
